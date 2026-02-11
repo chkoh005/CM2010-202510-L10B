@@ -1,2 +1,6 @@
 This file is created in main branch, at 10:44am.
+<<<<<<< HEAD
 Handsome feels lonely, at 10:58am.
+=======
+Pretty likes handsome, at 10:53am.
+>>>>>>> pretty
